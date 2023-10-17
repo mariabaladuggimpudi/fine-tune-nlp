@@ -1,0 +1,1 @@
+The notebook quick_explore_transformer.ipynb used the CPU
